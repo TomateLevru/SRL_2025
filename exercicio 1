@@ -1,0 +1,15 @@
+1.indica as três funções do sistema operativo de rede local (SON) que estão claramente presentes neste cenário. justifica cada uma
+R: As três funções são: partilha de impressoras, autenticação de utilizadores e partilha de ficheiro.
+
+2.se um funcionário da produção tentar aceder a pasta do departamento de RH, o que deve acontecer? Porque?
+R: Ele não pode porque a rede não o deixa
+
+3.qual a função do sistema operativo ao obrigar os utilizadores a efetuarem login com credenciais próprias
+R: A função do sistema operativo é colocar as pessoas no seu local de trabalho para que as pessoas de certas zonas não acedam
+outros locais de trabalho que não são permitidas.
+
+4. A partilha da impressora entre os departamentos de RH e administração e controlada por que? que papel tem o SON aqui.
+R: 
+
+5. como e que o SON pode ajudar o administrador da rede a identificar uma tentativa de acesso não autorizado?
+R: Eles usam Whitelist para saber quem esta autorizado e quem não esta.
